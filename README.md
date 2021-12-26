@@ -1,6 +1,7 @@
--  Hi, I’m @ZviKnoll
-- I'm Bs.c Computer Science student at Haifa University
-- I'm working at Holistic CRM as CRM Implementer and Developer
+-  Hi, I’m @ZviKnoll 
+- I'm Bs.c Computer Science student at Haifa University  <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1568634950413.jpg" />
+
+- I'm working at Holistic CRM as CRM Implementer and Developer <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1542087110834.jpg" />
 
 #### Connect with me:
 
