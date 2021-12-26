@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/zvi-knoll/">
-  <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./images/linkedin.png" />
+  <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./linkedin.png" />
 </a>
 <br>
 <br><hr>
