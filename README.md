@@ -1,7 +1,7 @@
 -  Hi, I’m Zvi Knoll 
-- I'm Bs.c Computer Science student at Haifa University  <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1568634950413.jpg" />
+- I'm Bs.c Computer Science student at Haifa University  <a href="https://cs.hevra.haifa.ac.il/"><img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1568634950413.jpg" /></a>
 
-- I'm working at Holistic CRM as CRM Implementer and Developer <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1542087110834.jpg" />
+- I'm working at Holistic CRM as CRM Implementer and Developer <a href="https://www.holisticcrm.co.il/"><img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1542087110834.jpg" /></a>
 
 #### Connect with me:
 
