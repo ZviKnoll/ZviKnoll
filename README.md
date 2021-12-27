@@ -1,4 +1,4 @@
--  Hi, I’m @ZviKnoll 
+-  Hi, I’m Zvi Knoll 
 - I'm Bs.c Computer Science student at Haifa University  <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1568634950413.jpg" />
 
 - I'm working at Holistic CRM as CRM Implementer and Developer <img align="left" alt="Zvi Knoll linkedin" width="35px" src="./1542087110834.jpg" />
@@ -11,15 +11,15 @@
 </a>
 <br>
 <br><hr>
+
 ### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZviKnoll&show_icons=true&theme=vue)
+<img src="https://github-readme-stats.vercel.app/api?username=ZviKnoll&show_icons=true" width="48%" >
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZviKnoll&theme=white" width="48%" >
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZviKnoll)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZviKnoll&layout=compact" width="48%" >
 
 <!---
 ZviKnoll/ZviKnoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
