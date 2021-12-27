@@ -11,8 +11,14 @@
 </a>
 <br>
 <br><hr>
-
+### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZviKnoll&show_icons=true&theme=vue)
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZviKnoll&theme=white" width="48%" >
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZviKnoll)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
